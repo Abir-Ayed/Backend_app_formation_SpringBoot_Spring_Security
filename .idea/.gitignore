@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\ISI\2eme semestre\2ING-IDL 2021\angular spring boot jwt 2021\spring-boot-security-jwt-main\spring-boot-security-jwt-main\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
